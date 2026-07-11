@@ -1,0 +1,77 @@
+[
+  {
+    "group": "LP制作",
+    "title": "YUKI YOGA",
+    "category": "ヨガインストラクター",
+    "description": "LP制作",
+    "image": "assets/images/work-yuki-yoga.png",
+    "alt": "YUKI YOGAのLP制作実績",
+    "url": "https://lp-studio02.github.io/yuki-yoga-slow-living-for-life/"
+  },
+  {
+    "group": "LP制作",
+    "title": "あゆみのまほう",
+    "category": "カラーセラピー・四柱推命",
+    "description": "LP制作・ロゴ制作・名刺・印鑑デザイン制作",
+    "image": "assets/images/work-ayumi-mahou.png",
+    "alt": "あゆみのまほうのLP制作、ロゴ制作、名刺、印鑑デザイン制作実績",
+    "url": "https://www.ayumi-mahou.com/"
+  },
+  {
+    "group": "LP制作",
+    "title": "メイサさん",
+    "category": "SNSアカウント用のLP",
+    "description": "LP制作",
+    "image": "assets/images/work-meisa.jpg",
+    "alt": "メイサさんのSNSアカウント用LP制作実績",
+    "url": "https://meisa-world.vercel.app/"
+  },
+  {
+    "group": "ロゴ・名刺制作",
+    "title": "あゆみのまほう",
+    "category": "ロゴ制作",
+    "description": "カラーセラピー・四柱推命",
+    "image": "assets/images/work-ayumi-logo-new.png",
+    "alt": "あゆみのまほうのロゴ制作実績"
+  },
+  {
+    "group": "ロゴ・名刺制作",
+    "title": "あゆみのまほう",
+    "category": "名刺制作",
+    "description": "名刺デザイン 表面・裏面",
+    "images": [
+      {
+        "src": "assets/images/work-ayumi-card-front-full.png",
+        "alt": "あゆみのまほうの名刺表面デザイン"
+      },
+      {
+        "src": "assets/images/work-ayumi-card-back-fullname.png",
+        "alt": "あゆみのまほうの名刺裏面デザイン"
+      }
+    ]
+  },
+  {
+    "group": "ロゴ・名刺制作",
+    "title": "あゆのさん",
+    "category": "ロゴ制作",
+    "description": "アロマフレグランスアドバイザー",
+    "image": "assets/images/work-ayuno-logo.png",
+    "alt": "あゆのさんのアロマフレグランスアドバイザー向けロゴ制作実績"
+  },
+  {
+    "group": "ロゴ・名刺制作",
+    "title": "あゆのさん",
+    "category": "名刺制作",
+    "description": "名刺デザイン 表面・裏面",
+    "images": [
+      {
+        "src": "assets/images/work-ayuno-card-front.png",
+        "alt": "あゆのさんの名刺表面デザイン"
+      },
+      {
+        "src": "assets/images/work-ayuno-card-back.png",
+        "alt": "あゆのさんの名刺裏面デザイン"
+      }
+    ]
+  }
+]
