@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title">
+  <title id="title">アロマサロンLPのモックアップ</title>
+  <rect width="800" height="600" fill="#e8ddd0"/>
+  <rect x="105" y="35" width="590" height="530" rx="5" fill="#fffdf9"/>
+  <rect x="105" y="35" width="590" height="38" fill="#7b5a3e"/>
+  <circle cx="130" cy="54" r="5" fill="#e8ddd0"/><circle cx="148" cy="54" r="5" fill="#d2b48c"/>
+  <rect x="141" y="105" width="265" height="310" rx="130" fill="#d2b48c"/>
+  <path d="M265 370c-42-98 35-171 90-197-34 67-29 130-90 197Z" fill="#7b5a3e" opacity=".65"/>
+  <circle cx="491" cy="161" r="8" fill="#c8a974"/>
+  <rect x="453" y="198" width="169" height="12" rx="6" fill="#7b5a3e"/>
+  <rect x="453" y="224" width="132" height="7" rx="4" fill="#d2b48c"/>
+  <rect x="453" y="244" width="146" height="7" rx="4" fill="#e8ddd0"/>
+  <rect x="453" y="293" width="112" height="34" rx="17" fill="#a4664a"/>
+  <rect x="141" y="455" width="481" height="69" fill="#f7f2eb"/>
+  <rect x="165" y="477" width="101" height="7" rx="3" fill="#a4664a"/>
+  <rect x="165" y="494" width="165" height="5" rx="3" fill="#d2b48c"/>
+</svg>
