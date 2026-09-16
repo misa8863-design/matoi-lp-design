@@ -27,6 +27,15 @@ const FALLBACK_WORKS = [
     url: "https://meisa-world.vercel.app/"
   },
   {
+    group: "LP制作",
+    title: "SATO工房",
+    category: "やちむん作家",
+    description: "LP制作",
+    image: "assets/images/work-sato-kobo.png",
+    alt: "やちむん作家 SATO工房のLP制作実績",
+    url: "http://satokobo369.com"
+  },
+  {
     group: "ロゴ・名刺制作",
     title: "あゆみのまほう",
     category: "ロゴ制作",
