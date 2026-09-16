@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 600" role="img" aria-labelledby="title desc">
+  <title id="title">SATO工房 LP制作実績</title>
+  <desc id="desc">やちむん作家のLP制作をイメージした陶器と自然モチーフのモックアップ</desc>
+  <rect width="800" height="600" fill="#e8ddd0"/>
+  <rect x="104" y="35" width="592" height="530" rx="5" fill="#fffdf9"/>
+  <rect x="104" y="35" width="592" height="39" fill="#7b5a3e"/>
+  <circle cx="130" cy="55" r="5" fill="#e8ddd0"/>
+  <circle cx="148" cy="55" r="5" fill="#d2b48c"/>
+  <rect x="144" y="113" width="205" height="12" rx="6" fill="#a4664a"/>
+  <rect x="144" y="144" width="265" height="18" rx="9" fill="#7b5a3e"/>
+  <rect x="144" y="183" width="196" height="7" rx="4" fill="#d2b48c"/>
+  <rect x="144" y="204" width="226" height="7" rx="4" fill="#e8ddd0"/>
+  <rect x="144" y="251" width="122" height="34" rx="17" fill="#a4664a"/>
+  <path d="M515 134c60 0 104 42 104 100 0 75-52 142-104 142s-104-67-104-142c0-58 44-100 104-100Z" fill="#d2b48c"/>
+  <path d="M438 232c38 28 116 28 154 0" fill="none" stroke="#fffdf9" stroke-width="13" stroke-linecap="round" opacity=".75"/>
+  <path d="M464 177c24-16 78-16 102 0" fill="none" stroke="#7b5a3e" stroke-width="9" stroke-linecap="round" opacity=".45"/>
+  <path d="M392 404c30-41 97-54 142-23 22 15 44 17 72 3-21 63-97 89-156 57-24-13-41-23-58-37Z" fill="#c8a974" opacity=".65"/>
+  <path d="M435 411c52-9 90-1 130 17" fill="none" stroke="#7b5a3e" stroke-width="6" stroke-linecap="round" opacity=".35"/>
+  <rect x="144" y="397" width="172" height="86" fill="#f7f2eb"/>
+  <rect x="166" y="423" width="94" height="7" rx="4" fill="#a4664a"/>
+  <rect x="166" y="445" width="122" height="6" rx="3" fill="#d2b48c"/>
+  <rect x="166" y="464" width="96" height="6" rx="3" fill="#e8ddd0"/>
+  <circle cx="621" cy="119" r="8" fill="#c8a974"/>
+  <circle cx="640" cy="420" r="5" fill="#a4664a" opacity=".45"/>
+</svg>
